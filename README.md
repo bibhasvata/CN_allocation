@@ -1,4 +1,4 @@
-generate_manuscript_figures_revised.py
+generate_manuscript_figures.py
 Standalone figure script for the C and N allocation manuscript.
 
 Reads: CN Manuscript/EGU BGS/C_N Allocation Supplementary II.xlsx (sheet S1),
